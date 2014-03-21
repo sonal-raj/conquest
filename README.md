@@ -1,4 +1,6 @@
 conquest
 ========
 
-A custo QA-as-a-service website framework written in cake PHP. Fully Customizable with option for theme development.
+A custo QA-as-A-Service web framework written in cake PHP. Fully Customizable with option for theme development.
+
+
